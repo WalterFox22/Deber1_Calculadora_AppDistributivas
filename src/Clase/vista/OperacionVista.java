@@ -2,10 +2,7 @@ package Clase.vista;
 
 import Clase.impl.Operacionesimpl;
 import Clase.interfaz.Operaciones;
-
 import javax.swing.*;
-
-import static java.awt.AWTEventMulticaster.add;
 
 public class OperacionVista extends JFrame {
     private JTextField txtNumero1;
